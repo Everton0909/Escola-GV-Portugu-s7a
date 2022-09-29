@@ -1,0 +1,15 @@
+# Escola Gildo Veríssimo
+
+## DICIPLINA: LÍNGUA PORTUGUESA 
+## PROF:MARCOS
+## Gênero textual: Horário de Aulas 
+### ALUNO EVERTON ADSON 
+#### TURMA: 7 ANO A 
+
+|Horário| SEG | TER | QUA | QUI | SEX | 
+|:--:|:--:|:--:|:--:|:--:|:--:| 
+7:30 8:30|MAT|PORT|HIST|GEOG|CIEN|
+8:20 9:10|MAT|PORT|MAT|PORT|GEOG|
+9:10 10:00|CIEN|PORT|HIST|MAT|GEOG|
+10:00 10:45|PORT|CIEN|HIST|MAT|ING|
+10:45 11:30|PORT|CIEN|ARTES|MAT|ING|
